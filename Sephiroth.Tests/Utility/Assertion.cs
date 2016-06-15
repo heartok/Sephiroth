@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Sephiroth.Tests
+namespace Sephiroth.Tests.Utility
 {
     public static class Assertion
     {
