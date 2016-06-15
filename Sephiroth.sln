@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sephiroth", "Sephiroth\Sephiroth.csproj", "{5D0CB8FB-29EE-469F-8CC0-42EA976D9C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sephiroth.Tests", "Sephiroth.Tests\Sephiroth.Tests.csproj", "{A3FB5FB2-17FA-4CA9-8CF9-B477CC6952DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0CB8FB-29EE-469F-8CC0-42EA976D9C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0CB8FB-29EE-469F-8CC0-42EA976D9C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0CB8FB-29EE-469F-8CC0-42EA976D9C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0CB8FB-29EE-469F-8CC0-42EA976D9C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FB5FB2-17FA-4CA9-8CF9-B477CC6952DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FB5FB2-17FA-4CA9-8CF9-B477CC6952DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FB5FB2-17FA-4CA9-8CF9-B477CC6952DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FB5FB2-17FA-4CA9-8CF9-B477CC6952DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
